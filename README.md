@@ -25,8 +25,8 @@ config.properties          # Configuration for rates and threshold
 1. **Clone the repository**
 
    ```sh
-   git clone <your-repo-url>
-   cd <repo-directory>
+   git clone [<your-repo-url>](https://github.com/sanchitm9/DataMeter.git)
+   cd DataMeter
    ```
 
 2. **Compile the Java source files**
