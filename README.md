@@ -25,7 +25,7 @@ config.properties          # Configuration for rates and threshold
 1. **Clone the repository**
 
    ```sh
-   git clone [<your-repo-url>](https://github.com/sanchitm9/DataMeter.git)
+   git clone https://github.com/sanchitm9/DataMeter.git
    cd DataMeter
    ```
 
